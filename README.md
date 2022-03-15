@@ -20,9 +20,9 @@
 
 
 ## More about me 
-- 🌱 I’m currently learning everything about UX/UI design 
+
 - 👯 I’m looking to collaborate on interesting and creative projects 
-- ⚡ Fun fact: I used to work as a dog groomer 
+- ⚡ Fun fact: Career change from the pet industry to the tech industry. 🐶🖥️
 
 ## Connect with me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/haneza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henriettazarvou/)  
